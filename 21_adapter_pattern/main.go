@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/d-jackalope/WB-L1/task-21/example"
+	"github.com/d-jackalope/WB-L1/21_adapter_pattern/example"
 )
 
 // Реализовать паттерн «адаптер» на любом примере.
